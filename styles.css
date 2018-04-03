@@ -94,6 +94,39 @@ main h2 {
   font-size: 28px;
 }
 
+.container__colors {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  right: 70px;
+}
+
+.container__corgi {
+  width: 18%;
+}
+
+.corgi__sable {
+  color: #BA8058;
+}
+
+.corgi__fawn {
+  color: #EAAA7F;
+}
+
+.corgi__red {
+  color: #834B29;
+}
+
+.corgi__stone {
+  color: #52595E;
+}
+
+.container__corgi p {
+  margin: 0 auto;
+  text-align: center;
+  padding-left: 85px;
+}
+
 footer {
   width: 100%;
   margin-top: 100px;
